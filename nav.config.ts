@@ -8,10 +8,10 @@ const c: IConfig = {
   branch: 'main',
 
   // If routing is hash mode. if it deployed into github pages or using Vercel, it has to be set to true
-  hashMode: true,
+  hashMode: false,
 
   // is it displaying the Github icon on top right corner of the web page
-  showGithub: true,
+  showGithub: false,
 
   // what is your website address. It is good for your SEO
   homeUrl: 'https://nav.51sec.org',
