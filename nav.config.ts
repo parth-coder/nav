@@ -8,7 +8,7 @@ const c: IConfig = {
   branch: 'main',
 
   // If routing is hash mode. if it deployed into github pages or using Vercel, it has to be set to true
-  hashMode: false,
+  hashMode: true,
 
   // is it displaying the Github icon on top right corner of the web page
   showGithub: false,
